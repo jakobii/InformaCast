@@ -205,4 +205,6 @@ func (d DialingConfigrations) Delete(c RestDialCastDialingConfig) (err error) {
 		return err
 	}
 	defer response.Body.Close()
+
+	return nil
 }
