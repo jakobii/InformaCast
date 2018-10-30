@@ -1,0 +1,14 @@
+
+#ingore everything
+*
+
+# allow directories
+!/**/
+
+# allow files with extensions
+!*.*
+
+
+# ide stuff
+.idea
+.vsc
