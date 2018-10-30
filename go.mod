@@ -1,1 +1,1 @@
-module InformaCast
+module  github.com/jakobii/InformaCast
